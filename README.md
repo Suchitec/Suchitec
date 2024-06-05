@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am Chishambo, the proud founder of SuchiTec, an organization dedicated to pushing the boundaries of technology and innovation. <br><br>-⚡ I'm also a Network Engineer and Cybersecurity Specialist <br>- 🔭 I’m an aspiring software developer in the making.<br>- 📚 I'm currently learning Software Development<br> </p>
+<p align="left">I am Chishambo, I'm proud to be the founder of Suchitec , an organization dedicated to pushing the boundaries of technology and innovation. <br><br>-⚡ I'm a Network Engineer <br>- A Cybersecurity Specialist <br>- 🔭 I’m an aspiring software developer in the making.<br>- 📚 I'm currently learning Software Development<br> </p>
 
 ###
 
