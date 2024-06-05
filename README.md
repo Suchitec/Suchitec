@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am Chishambo, the proud founder of SuchiTec, an organization dedicated to pushing the boundaries of technology and innovation. With a strong foundation as a network engineer and cybersecurity specialist, I have honed my skills to ensure the seamless and secure operation of complex networks. My passion for technology doesn't stop there; I am also an aspiring software developer, constantly exploring new ways to create impactful software solutions.<br><br>- 🔭 I’m an aspiring software developer in the making.<br>- 📚 I'm currently learning Software Development<br>- ⚡ I'm also a Network Engineer and Cybersecurity Specialist <br> </p>
+<p align="left">I am Chishambo, the proud founder of SuchiTec, an organization dedicated to pushing the boundaries of technology and innovation. <br><br>-⚡ I'm also a Network Engineer and Cybersecurity Specialist <br>- 🔭 I’m an aspiring software developer in the making.<br>- 📚 I'm currently learning Software Development<br> </p>
 
 ###
 
