@@ -1,53 +1,44 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# Emmanuel Chishambo 
+## Aspiring Software Developer & Cybersecurity Expert
 
-###
+Welcome to my GitHub! I'm Emmanuel Chishambo, a passionate Information Technology graduate from Kenyatta University with a strong foundation in programming, web/system development, and cybersecurity.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## 👨‍💻 Programming Skills
 
-###
+- **HTML & CSS** - Skilled in building responsive and well-structured web pages.  
+- **Bootstrap** - Proficient in using Bootstrap to develop responsive, mobile-first websites quickly and efficiently.  
+- **C++** - Strong understanding of object-oriented programming and algorithm development.  
+- **Python** - Experience in scripting, automation, and developing basic applications.  
+- **PHP** - Server-side scripting and integration with SQL databases.  
+- **SQL** - Proficient in database creation, querying, and management.  
 
-<h1 align="center">Hey there 👋</h1>
+## 💼 Projects & Experience
 
-###
+### Freelance Web/System Development (2015 – Present)
+Collaborated on various client-based web and system development projects. Involved in front-end and back-end development tasks tailored to client requirements, using tools like Bootstrap for UI/UX design.
 
-<h3 align="left">👩‍💻  About Me</h3>
+### Cybersecurity Volunteer (2024)
+Worked under ICT Mashinani Foundation in partnership with Mozilla Africa Mradi, creating cybersecurity awareness and promoting safe digital practices across institutions.
 
-###
+## 🎓 Education
 
-<p align="left">I am Chishambo, I'm proud to be the founder of Suchitec , a Company dedicated to pushing the boundaries of technology and innovation. <br><br>-⚡ I'm a Network Engineer <br>- A Cybersecurity Specialist <br>- 🔭 I’m an aspiring software developer in the making.<br>- 📚 I'm currently learning Software Development<br> </p>
+**Bachelor of Information Technology**  
+*Kenyatta University (2019 – 2024)*
 
-###
+## 📜 Certifications
 
-<h3 align="left">🛠 Language and tools</h3>
+- **Cisco Certified Network Associate (CCNA)** – Kenyatta University, 2019  
+- **Network Security** – Cisco Networking Academy, November 2022  
+- **Technical Support Fundamentals** – Google/Coursera, August 2022  
 
-###
+## 🚀 Looking Forward To
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+- Contributing to open-source projects  
+- Expanding knowledge in JavaScript frameworks and full-stack development  
+- Diving deeper into cybersecurity and ethical hacking  
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+📫 **Contact:**  
+📧 Email: [chishax@gmail.com](mailto:chishax@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/emmanuelmvondi](http://www.linkedin.com/in/emmanuelmvondi)
