@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm Emmanuel Chishambo, a passionate Information Technolog
 Collaborated on various client-based web and system development projects. Involved in front-end and back-end development tasks tailored to client requirements, using tools like Bootstrap for UI/UX design.
 
 ### Cybersecurity Volunteer (2024)
-Worked under ICT Mashinani Foundation in partnership with Mozilla Africa Mradi, creating cybersecurity awareness and promoting safe digital practices across institutions.
+Worked with Mozilla Africa Mradi, creating cybersecurity awareness and promoting safe digital practices across institutions.
 
 ## 🎓 Education
 
