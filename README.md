@@ -1,7 +1,7 @@
 # Emmanuel Chishambo 
 ## Aspiring Software Developer & Cybersecurity Expert
 
-Welcome to my GitHub! I'm Emmanuel Chishambo, a passionate Information Technology graduate from Kenyatta University with a strong foundation in programming, web/system development, and cybersecurity.
+Welcome to my GitHub! I'm Emmanuel Chishambo, founder of [Suchitec](https://suchitec.com) , an Information Technology graduate from Kenyatta University with a strong foundation in programming, web/system development, and cybersecurity.
 
 ## 👨‍💻 Programming Skills
 
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm Emmanuel Chishambo, a passionate Information Technolog
 ## 💼 Projects & Experience
 
 ### Freelance Web/System Development (2015 – Present)
-Collaborated on various client-based web and system development projects. Involved in front-end and back-end development tasks tailored to client requirements, using tools like Bootstrap for UI/UX design.
+Collaborated on various client-based web and system development projects. Involved in front-end and back-end development tasks tailored to client requirements, using tools like Tailwind CSS for UI/UX design.
 
 ### Cybersecurity Volunteer (2024)
 Worked with Mozilla Africa Mradi, creating cybersecurity awareness and promoting safe digital practices across institutions.
