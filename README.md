@@ -3,19 +3,29 @@
 
 Welcome to my GitHub! I'm Emmanuel Chishambo, founder of [Suchitec](https://suchitec.com) , an Information Technology graduate from Kenyatta University with a strong foundation in programming, web/system development, and cybersecurity.
 
-## 👨‍💻 Programming Skills
+## 👨‍💻 Programming Skills & Technologies
 
-- **HTML & CSS** - Skilled in building responsive and well-structured web pages.  
-- **Bootstrap** - Proficient in using Bootstrap to develop responsive, mobile-first websites quickly and efficiently.  
-- **C++** - Strong understanding of object-oriented programming and algorithm development.  
-- **Python** - Experience in scripting, automation, and developing basic applications.  
-- **PHP** - Server-side scripting and integration with SQL databases.  
-- **SQL** - Proficient in database creation, querying, and management.  
+### 🎨 Frontend Development
+- **HTML5 & CSS3** - Skilled in building responsive, accessible, and well-structured web pages.
+- **JavaScript (ES6+) & TypeScript** - Writing clean, strongly-typed, and dynamic client-side logic.
+- **React.js / Next.js** - Building modern, interactive single-page applications and server-rendered websites.
+- **Tailwind CSS & Bootstrap** - Developing responsive, mobile-first UI components quickly and efficiently.
 
+### ⚙️ Backend & Systems
+- **Python (FastAPI / Django)** - Scripting, automation, and building scalable RESTful APIs.
+- **Node.js & Express** - Asynchronous server-side JavaScript development.
+- **PHP & C++** - Server-side scripting, strong object-oriented programming, and algorithm development.
+
+### 🗄️ Databases & DevOps
+- **Databases (SQL & MongoDB)** - Proficient in database creation, querying, and management across both relational and NoSQL environments.
+- **Git & GitHub** - Version control, branching strategies, and collaborative development.
+- **Docker** - Containerizing applications for consistent, isolated deployments.
+- 
 ## 💼 Projects & Experience
 
 ### Freelance Web/System Development (2015 – Present)
 Collaborated on various client-based web and system development projects. Involved in front-end and back-end development tasks tailored to client requirements, using tools like Tailwind CSS for UI/UX design.
+[Suchitec Company](https://suchite.co.ke) , [Real Estate Website](https://jaslanenterprises.co.ke)
 
 ### Cybersecurity Volunteer (2024)
 Worked with Mozilla Africa Mradi, creating cybersecurity awareness and promoting safe digital practices across institutions.
