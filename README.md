@@ -50,5 +50,5 @@ Worked with Mozilla Africa Mradi, creating cybersecurity awareness and promoting
 ---
 
 📫 **Contact:**  
-📧 Email: [chishax@gmail.com](mailto:chishax@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/emmanuelmvondi](http://www.linkedin.com/in/emmanuelmvondi)
+📧 Email: [chishax@gmail.com](mailto:chishax@gmail.com) | [chishambomanuel@gmail.com](mailto:chishambomanuel@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/chishamboemmanuel/](https://www.linkedin.com/in/chishamboemmanuel/)
